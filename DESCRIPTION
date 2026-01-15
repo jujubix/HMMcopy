@@ -16,3 +16,4 @@ Description: Corrects GC and mappability biases for readcounts (i.e.
 License: GPL-3
 biocViews: Sequencing, Preprocessing, Visualization,
         CopyNumberVariation, Microarray
+URL: https://github.com/jujubix/HMMcopy
